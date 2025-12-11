@@ -2,11 +2,6 @@
 Neste repositório contêm resumos de aulas teóricas e de laboratório da matéria de computação em nuvem do curso DSM.
 
 
-Aula dia 29 de novembro de 2025
-Resumo:
-
-
-Resumo das Aulas – Computação em Nuvem I
 18/11
 
 Início do conteúdo da disciplina.
@@ -38,3 +33,10 @@ Recomendação de estudo: slides até o número 10 para a P1.
 06/12 – Aula de Reposição
 
 Atividade prática focada na criação de uma máquina virtual.
+
+09/12
+Disponibilidade, 
+aula prática 
+
+
+12/12 
