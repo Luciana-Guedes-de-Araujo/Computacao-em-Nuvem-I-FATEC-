@@ -69,3 +69,6 @@ Contêineres: instâncias, serviços, kubernetes, funções.
 Redes VNet.
 
 Dimensionamento de máquinas virtuais.
+
+
+Link Atividade de criação das 3 vm´s: https://youtu.be/OAti8Z6JAW0
