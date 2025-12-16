@@ -41,7 +41,7 @@ Definição das ferramentas a serem usadas antes da criação de uma máquina vi
 
 Definição de contêineres, Docker, Imagem, Marcas.
 
-Certificação AZ-9000.
+Certificação AZ-900.
 
 Tipos de serviços: IaaS, PaaS e SaaS.
 *****************************************************************************************
